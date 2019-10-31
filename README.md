@@ -2,7 +2,7 @@
 
 I am looking for people who can build awesome products, so we decided to put up this challenge to test our candidates' overall developer skills.
 Instructions
-# 1. Build your app
+## 1. Build your app
 
 You have 1 week to complete the challenge.
 
