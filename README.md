@@ -7,7 +7,7 @@ Instructions
 You have 1 week to complete the challenge.
 
 Implementation and design will be evaluated.
-# 2. Submit your challenge
+## 2. Submit your challenge
 
 Follow these instructions to submit your challenge.
 
@@ -17,7 +17,7 @@ Follow these instructions to submit your challenge.
     Commit/push your Changes
     Email link to your repository to cynthia.m@thebe-im.com for assessment
 
-# 3. Impress us with your skills
+## 3. Impress us with your skills
 Challenge
 
 Richard is a lecturer offering four courses under a particular faculty. He needs a way to keep track of all his students and be able to filter them by their various attributes.
