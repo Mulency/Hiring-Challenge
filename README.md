@@ -12,21 +12,25 @@ Implementation and design will be evaluated.
 Follow these instructions to submit your challenge.
 
     Setup your Development Environment (React Native - Getting Started guide)
-    Write your Code
-    Commit your Changes
     Fork the Challenge Repository
-    Issue a Pull Request
+    Write your Code
+    Commit/push your Changes
+    Email link to your repository to cynthia.m@thebe-im.com for assessment
 
 # 3. Impress us with your skills
 Challenge
 
-Richard is a lecturer offering four courses in a particular faculty. He needs a way to keep track of all his students and be able to filter them by their various attributes.
+Richard is a lecturer offering four courses under a particular faculty. He needs a way to keep track of all his students and be able to filter them by their various attributes.
 
 Requirements
 
 Your app should be able to complete the following tasks:
 
     Add a new Student (Name, Age, Adress, Gender, or anything else you think would be important)
+    Add new result for a student
+    Edit result
+    remove result
+    View a student's results
     Remove Students
     Edit Students
     List all of his Students
