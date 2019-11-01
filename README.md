@@ -4,7 +4,7 @@ I am looking for people who can build awesome products, so we decided to put up 
 Instructions
 ## 1. Build your app
 
-You have 1 week to complete the challenge.
+You have till 8th November 2019 to complete the challenge.
 
 Implementation and design will be evaluated.
 ## 2. Submit your challenge
