@@ -4,7 +4,7 @@ I am looking for people who can build awesome products, so we decided to put up 
 Instructions
 ## 1. Build your app
 
-You have till 8th November 2019 to complete the challenge.
+Please submit solution 1 week after recieving the email of invitation.
 
 Implementation and design will be evaluated.
 ## 2. Submit your challenge
@@ -15,7 +15,7 @@ Follow these instructions to submit your challenge.
     Fork the Challenge Repository
     Write your Code
     Commit/push your Changes
-    Email link to your repository to cynthia.m@thebe-im.com for assessment
+    Please email link to your public repo to the point of contact that sent link to this challenge.
 
 ## 3. Impress us with your skills
 Challenge
