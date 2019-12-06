@@ -15,7 +15,7 @@ Follow these instructions to submit your challenge.
     Fork the Challenge Repository
     Write your Code
     Commit/push your Changes
-    Please email link to your public repo to the point of contact that sent link to this challenge.
+    Please email the link to your public repo to the point of contact that sent link to this challenge a week after accessing the challenge.
 
 ## 3. Impress us with your skills
 Challenge
